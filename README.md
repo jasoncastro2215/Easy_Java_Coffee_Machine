@@ -1,10 +1,9 @@
-## Installation
+# Installation
 
-Java 11 is installed in my computer
+###Java 11 is installed in my computer
 
-## How to run
+# How to run
 
-> open terminal
-> go to project path
-> type:
-> java CoffeeMachine.java
+### open terminal
+### go to project path
+### type: java CoffeeMachine.java
